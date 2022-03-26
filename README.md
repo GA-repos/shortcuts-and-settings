@@ -80,6 +80,8 @@ Monitors
 |Command-Z| **Undo** the previous command/typing|
 |Command-Shift-4| Take a screenshot |
 |Command-Spacebar| Open Spotlight |
+|Option-Up/Down Key| Move line of code |
+|Option-Shift-Up/Down Key| Duplicate line of code |
 
 #### :hourglass: Activity (5 minutes)
 - Open your Desktop or Documents in atom
